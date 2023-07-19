@@ -12,7 +12,6 @@ function addRow() {
   ageCell.innerHTML = "<th>30</th>";
   numberCell.innerHTML = "<th>998917777777</th>";
   countryCell.innerHTML = "<th>England</th>";
-  ageCell.innerHTML = "<th>Alex</th>";
   actionsCell.innerHTML = "<button onclick='deleteRow(this)'>Delete</button>";
 }
 
